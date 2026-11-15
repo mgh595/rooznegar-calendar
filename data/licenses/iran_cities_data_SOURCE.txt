@@ -1,0 +1,8 @@
+﻿Iranian city coordinate dataset
+
+Source repository: arnpacc/iran-city-coordinates
+Source file: geographic_coordinates_of_cities_in_iran.json
+Repository: https://github.com/arnpacc/iran-city-coordinates
+License: MIT (see iran_cities_data_LICENSE.txt)
+
+The bundled source lists cities in 31 provinces. One city record has no latitude/longitude and is omitted from the selectable city list. The application uses coordinates for prayer-time calculation with its existing PrayTimes Tehran method and parameter adjustments. Verify local prayer-time expectations before public release.

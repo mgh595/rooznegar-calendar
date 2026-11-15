@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "description": "Local audio index; selected files are copied to the per-user RoozNegar audio folder. The provider can later switch to a GitHub raw URL.",
+
+  "muezzins": [
+    {
+      "audio_file": "adhan_audio/adhan_01.mp3",
+
+      "name": "رحیم مؤذن‌زاده اردبیلی",
+      "id": "delgarm_01",
+      "name_en": "",
+      "bundled": true
+    },
+    {
+      "audio_file": "adhan_audio/adhan_21.mp3",
+
+      "name": "محمد آقاتی",
+      "id": "delgarm_21",
+      "name_en": "",
+      "bundled": true
+    },
+    {
+      "audio_file": "adhan_audio/adhan_39.mp3",
+
+      "name": "محمدحسین ابوریه",
+      "id": "delgarm_39",
+      "name_en": "",
+      "bundled": true
+    },
+    {
+      "audio_file": "adhan_audio/adhan_07.mp3",
+
+      "name": "راغب مصطفی غلوش",
+      "id": "delgarm_07",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_02.mp3",
+
+      "name": "عباس سلیمی",
+      "id": "delgarm_02",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_03.mp3",
+
+      "name": "سلیم مؤذن‌زاده اردبیلی",
+      "id": "delgarm_03",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_04.mp3",
+
+      "name": "عبدالباسط عبدالصمد",
+      "id": "delgarm_04",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_05.mp3",
+
+      "name": "محمد طوخی",
+      "id": "delgarm_05",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_06.mp3",
+
+      "name": "محمد صدیق منشاوی",
+      "id": "delgarm_06",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_08.mp3",
+
+      "name": "1-عبدالحسن محمدپور",
+      "id": "delgarm_08",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_09.mp3",
+
+      "name": "2-عبدالحسن محمدپور",
+      "id": "delgarm_09",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_10.mp3",
+
+      "name": "سیدعباس میرداماد",
+      "id": "delgarm_10",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_11.mp3",
+
+      "name": "محمدحسین سبزعلی",
+      "id": "delgarm_11",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_12.mp3",
+
+      "name": "حسین صبح‌دل",
+      "id": "delgarm_12",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_13.mp3",
+
+      "name": "تاج اصفهانی",
+      "id": "delgarm_13",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_14.mp3",
+
+      "name": "قاسم رضیعی-1",
+      "id": "delgarm_14",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_19.mp3",
+
+      "name": "قاسم رضیعی-2",
+      "id": "delgarm_19",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_15.mp3",
+
+      "name": "حسین ربیعیان",
+      "id": "delgarm_15",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_16.mp3",
+
+      "name": "سیدمحسن خدام حسینی",
+      "id": "delgarm_16",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_17.mp3",
+
+      "name": "محمد عبدالوهاب طنطاوی",
+      "id": "delgarm_17",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_18.mp3",
+
+      "name": "کریم منصوری-1",
+      "id": "delgarm_18",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_38.mp3",
+
+      "name": "کریم منصوری-2",
+      "id": "delgarm_38",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_20.mp3",
+
+      "name": "حسین کرمی",
+      "id": "delgarm_20",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_22.mp3",
+
+      "name": "محمد غفاری",
+      "id": "delgarm_22",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_23.mp3",
+
+      "name": "حسن رضائیان-1",
+      "id": "delgarm_23",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_25.mp3",
+
+      "name": "حسن رضائیان-2",
+      "id": "delgarm_25",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_24.mp3",
+
+      "name": "حسین‌علی شریف",
+      "id": "delgarm_24",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_26.mp3",
+
+      "name": "شهید محسن حاجی‌حسنی",
+      "id": "delgarm_26",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_28.mp3",
+
+      "name": "محمدرضا پورزرگری",
+      "id": "delgarm_28",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_29.mp3",
+
+      "name": "حسین رستمی",
+      "id": "delgarm_29",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_30.mp3",
+
+      "name": "حسین یزدان‌پناه",
+      "id": "delgarm_30",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_31.mp3",
+
+      "name": "مصطفی یادگاری",
+      "id": "delgarm_31",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_32.mp3",
+
+      "name": "اذان مدینه",
+      "id": "delgarm_32",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_33.mp3",
+
+      "name": "اذان مسجدالحرام",
+      "id": "delgarm_33",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_34.mp3",
+
+      "name": "اذان حرم امام رضا (ع)",
+      "id": "delgarm_34",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_35.mp3",
+
+      "name": "اذان حزین",
+      "id": "delgarm_35",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_36.mp3",
+
+      "name": "اذان انتظار - کاظم‌زاده",
+      "id": "delgarm_36",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_37.mp3",
+
+      "name": "شهریار پرهیزگار",
+      "id": "delgarm_37",
+      "name_en": "",
+      "bundled": false
+    },
+    {
+      "audio_file": "adhan_audio/adhan_40.mp3",
+
+      "name": "محمدمهدی کلانتر",
+      "id": "delgarm_40",
+      "name_en": "",
+      "bundled": false
+    }
+  ],
+  "audio_provider": {
+    "type": "github_raw",
+    "base_path": "adhan_audio",
+    "remote_base_url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio"
+  }
+}

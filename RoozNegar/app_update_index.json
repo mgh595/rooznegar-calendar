@@ -1,0 +1,607 @@
+{
+  "schema_version": 1,
+  "app_version": "1.0.1",
+  "generated_at_utc": "2026-11-15T06:47:54+00:00",
+  "files": {
+    "_asyncio.pyd": {
+      "version": "sha256:f9594a2a4f45570dbfdf1f3471194ae7b27dc117c54b9af6bc22df9c93830f8b",
+      "sha256": "f9594a2a4f45570dbfdf1f3471194ae7b27dc117c54b9af6bc22df9c93830f8b",
+      "size": 78048,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_asyncio.pyd"
+    },
+    "_bz2.pyd": {
+      "version": "sha256:b938073c85cf6b9fe80556d7899ed1901e5e60b7adea2832442376239fb36b36",
+      "sha256": "b938073c85cf6b9fe80556d7899ed1901e5e60b7adea2832442376239fb36b36",
+      "size": 88288,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_bz2.pyd"
+    },
+    "_ctypes.pyd": {
+      "version": "sha256:408cc4e7a22ffa418ca52f5e13fe9268a3c50a2bc9de02b0530b555ef591bc5a",
+      "sha256": "408cc4e7a22ffa418ca52f5e13fe9268a3c50a2bc9de02b0530b555ef591bc5a",
+      "size": 142560,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_ctypes.pyd"
+    },
+    "_decimal.pyd": {
+      "version": "sha256:bc3a61685825ae37a4cd2b2b87fa27af12e01575c4f920788ea806e6781a2c79",
+      "sha256": "bc3a61685825ae37a4cd2b2b87fa27af12e01575c4f920788ea806e6781a2c79",
+      "size": 291552,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_decimal.pyd"
+    },
+    "_elementtree.pyd": {
+      "version": "sha256:d8a17f9c831e313b440e19e0d26e6c0e7ed830ff1f657887cbc26664d6ef4973",
+      "sha256": "d8a17f9c831e313b440e19e0d26e6c0e7ed830ff1f657887cbc26664d6ef4973",
+      "size": 138976,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_elementtree.pyd"
+    },
+    "_hashlib.pyd": {
+      "version": "sha256:5933ef5eda7c0bca0b3874a6e2c5f13b91b8f2cfc29bc46160df3212a1dbee79",
+      "sha256": "5933ef5eda7c0bca0b3874a6e2c5f13b91b8f2cfc29bc46160df3212a1dbee79",
+      "size": 69344,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_hashlib.pyd"
+    },
+    "_lzma.pyd": {
+      "version": "sha256:d2abf8db7fb0cf6285663b177991691a41b37e215c3d71fd087a98d8ec1bee63",
+      "sha256": "d2abf8db7fb0cf6285663b177991691a41b37e215c3d71fd087a98d8ec1bee63",
+      "size": 160992,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_lzma.pyd"
+    },
+    "_multiprocessing.pyd": {
+      "version": "sha256:cea83c9bf3131d079c20066b626f67ab33021b476777be2d7be26d1fa5e4eb66",
+      "sha256": "cea83c9bf3131d079c20066b626f67ab33021b476777be2d7be26d1fa5e4eb66",
+      "size": 38624,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_multiprocessing.pyd"
+    },
+    "_overlapped.pyd": {
+      "version": "sha256:1d7028683e6ec50c159139238f90a6c8431ece139a4764900ca11c941ba05d46",
+      "sha256": "1d7028683e6ec50c159139238f90a6c8431ece139a4764900ca11c941ba05d46",
+      "size": 58080,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_overlapped.pyd"
+    },
+    "_queue.pyd": {
+      "version": "sha256:2fd8668f52b34d0e71ae48784bd2e7d35e5d99df6f641edb0fc279235a187c8e",
+      "sha256": "2fd8668f52b34d0e71ae48784bd2e7d35e5d99df6f641edb0fc279235a187c8e",
+      "size": 36576,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_queue.pyd"
+    },
+    "_socket.pyd": {
+      "version": "sha256:02265dd0d0287f3ffd287ea5d8e3c918a5a056e8ef2c4529857f5e84ec9e2519",
+      "sha256": "02265dd0d0287f3ffd287ea5d8e3c918a5a056e8ef2c4529857f5e84ec9e2519",
+      "size": 87776,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_socket.pyd"
+    },
+    "_ssl.pyd": {
+      "version": "sha256:4cfb154c7cc525d57020c0e64f2dd876a78b46cd38419446392478de6b7b13b8",
+      "sha256": "4cfb154c7cc525d57020c0e64f2dd876a78b46cd38419446392478de6b7b13b8",
+      "size": 190688,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_ssl.pyd"
+    },
+    "_tkinter.pyd": {
+      "version": "sha256:ee3eb2cdac591821cf71cda8035a6bc9b148d92996dd45b24e3ae3715613315d",
+      "sha256": "ee3eb2cdac591821cf71cda8035a6bc9b148d92996dd45b24e3ae3715613315d",
+      "size": 70880,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_tkinter.pyd"
+    },
+    "_wmi.pyd": {
+      "version": "sha256:b6fd41f079da0c0054829855360e88b8b762f5c42bb474c2fa02eae367839ad2",
+      "sha256": "b6fd41f079da0c0054829855360e88b8b762f5c42bb474c2fa02eae367839ad2",
+      "size": 40160,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_wmi.pyd"
+    },
+    "_zstd.pyd": {
+      "version": "sha256:33c6eca99470c3eb9d776b617c550ad41b002a668336f062a9ab7be677a7409a",
+      "sha256": "33c6eca99470c3eb9d776b617c550ad41b002a668336f062a9ab7be677a7409a",
+      "size": 503520,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/_zstd.pyd"
+    },
+    "ada92cb5d92a588d1b93__mypyc.cp314-win_amd64.pyd": {
+      "version": "sha256:3048af5864e17f79410273b3074416d67473eae22b3d7d1b7b58f24a506f82ed",
+      "sha256": "3048af5864e17f79410273b3074416d67473eae22b3d7d1b7b58f24a506f82ed",
+      "size": 223232,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/ada92cb5d92a588d1b93__mypyc.cp314-win_amd64.pyd"
+    },
+    "audio/1.mp3": {
+      "version": "sha256:d97eb4630058af8707c56d059971b4351e34bbd0c4f19cd4dfe83c74badb9e68",
+      "sha256": "d97eb4630058af8707c56d059971b4351e34bbd0c4f19cd4dfe83c74badb9e68",
+      "size": 5580657,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/audio/1.mp3"
+    },
+    "audio/2.mp3": {
+      "version": "sha256:b9dbd43d5d5c1bf299cf80fe0803b83578898db7039c94073cf25f334b7e174b",
+      "sha256": "b9dbd43d5d5c1bf299cf80fe0803b83578898db7039c94073cf25f334b7e174b",
+      "size": 27166,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/audio/2.mp3"
+    },
+    "audio/3.mp3": {
+      "version": "sha256:b9dbd43d5d5c1bf299cf80fe0803b83578898db7039c94073cf25f334b7e174b",
+      "sha256": "b9dbd43d5d5c1bf299cf80fe0803b83578898db7039c94073cf25f334b7e174b",
+      "size": 27166,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/audio/3.mp3"
+    },
+    "base_library.zip": {
+      "version": "sha256:6cdad5ee002e75201ae74e1334094b91426b790dd4ee4aa1e6496ca1c2be65cb",
+      "sha256": "6cdad5ee002e75201ae74e1334094b91426b790dd4ee4aa1e6496ca1c2be65cb",
+      "size": 1394319,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/base_library.zip"
+    },
+    "charset_normalizer/cd.cp314-win_amd64.pyd": {
+      "version": "sha256:032b490f6b42a0928b3cb6e17fd4caf8a6becaaf05739c4fe41267dcf890c278",
+      "sha256": "032b490f6b42a0928b3cb6e17fd4caf8a6becaaf05739c4fe41267dcf890c278",
+      "size": 10752,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/charset_normalizer/cd.cp314-win_amd64.pyd"
+    },
+    "charset_normalizer/md.cp314-win_amd64.pyd": {
+      "version": "sha256:1e6a7085b577f6a3b569bada5838e44805fc4cbd49361192e078ddd8230f2ffd",
+      "sha256": "1e6a7085b577f6a3b569bada5838e44805fc4cbd49361192e078ddd8230f2ffd",
+      "size": 10752,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/charset_normalizer/md.cp314-win_amd64.pyd"
+    },
+    "icon/close": {
+      "version": "sha256:fe21596b52d354d3b295d7bd6960614ec0568698f2e0c5c68172dc30181a4b4d",
+      "sha256": "fe21596b52d354d3b295d7bd6960614ec0568698f2e0c5c68172dc30181a4b4d",
+      "size": 5647,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/close"
+    },
+    "icon/convert": {
+      "version": "sha256:2d96acf03c733dae28613e102f4f188d2670d6405ba1b78bf2d919f160947f07",
+      "sha256": "2d96acf03c733dae28613e102f4f188d2670d6405ba1b78bf2d919f160947f07",
+      "size": 14218,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/convert"
+    },
+    "icon/dhuhr_icon": {
+      "version": "sha256:725bd770905ebba5d3a19ffc30606a315d8600e92f1aa17ec3c03b530f409f2b",
+      "sha256": "725bd770905ebba5d3a19ffc30606a315d8600e92f1aa17ec3c03b530f409f2b",
+      "size": 3697,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/dhuhr_icon"
+    },
+    "icon/fajr_icon": {
+      "version": "sha256:75531477f3ace0d581f65fc6096bce6b339dcbfade0cad83d4f31aa63aa50dea",
+      "sha256": "75531477f3ace0d581f65fc6096bce6b339dcbfade0cad83d4f31aa63aa50dea",
+      "size": 3663,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/fajr_icon"
+    },
+    "icon/fajr_prayer_icon": {
+      "version": "sha256:359280b0df046d0fd8886333ec0da30620467aa12219d95a69788f374b95f427",
+      "sha256": "359280b0df046d0fd8886333ec0da30620467aa12219d95a69788f374b95f427",
+      "size": 2822,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/fajr_prayer_icon"
+    },
+    "icon/gear_icon": {
+      "version": "sha256:b4727b919bbce9c04e3baf0db2d52b03281d2a79a278272fc09d9171a9a8949e",
+      "sha256": "b4727b919bbce9c04e3baf0db2d52b03281d2a79a278272fc09d9171a9a8949e",
+      "size": 69657,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/gear_icon"
+    },
+    "icon/GITHUB": {
+      "version": "sha256:d83ddf4ea98e9d2e77848869cbe5f0ecabb3058ede22c681bbe07b45a9091909",
+      "sha256": "d83ddf4ea98e9d2e77848869cbe5f0ecabb3058ede22c681bbe07b45a9091909",
+      "size": 8640,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/GITHUB"
+    },
+    "icon/info_Icon": {
+      "version": "sha256:94b771ac08c7abb3a8dcede02761dd1e4e32399ed17688399c294fcbffb3c184",
+      "sha256": "94b771ac08c7abb3a8dcede02761dd1e4e32399ed17688399c294fcbffb3c184",
+      "size": 36744,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/info_Icon"
+    },
+    "icon/isha_icon": {
+      "version": "sha256:d9bf8c0a5686e65146a67a8f2e4fa226900ca18a1b9fd92d752da6ea0ef5446f",
+      "sha256": "d9bf8c0a5686e65146a67a8f2e4fa226900ca18a1b9fd92d752da6ea0ef5446f",
+      "size": 2610,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/isha_icon"
+    },
+    "icon/linkedin": {
+      "version": "sha256:0dc4b35759b4056c10fc70b63947f357b98b72465ecc3adbfdf20c60d139d658",
+      "sha256": "0dc4b35759b4056c10fc70b63947f357b98b72465ecc3adbfdf20c60d139d658",
+      "size": 1626,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/linkedin"
+    },
+    "icon/maghrib_icon": {
+      "version": "sha256:71b9dabdc71b7fa2dead9e528ff86282b0a3f11c514340b57a241eac5454e6e1",
+      "sha256": "71b9dabdc71b7fa2dead9e528ff86282b0a3f11c514340b57a241eac5454e6e1",
+      "size": 3717,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/maghrib_icon"
+    },
+    "icon/maghrib_prayer_icon": {
+      "version": "sha256:3ae339258143f4b3cf4dd9e01b17903029aef0cf313387095698f17441260273",
+      "sha256": "3ae339258143f4b3cf4dd9e01b17903029aef0cf313387095698f17441260273",
+      "size": 3158,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/maghrib_prayer_icon"
+    },
+    "icon/nspeaker": {
+      "version": "sha256:32917ce628a3edab96dbd2373a15e35fb1fce8e9f6bdaed1ad04378293fb4bae",
+      "sha256": "32917ce628a3edab96dbd2373a15e35fb1fce8e9f6bdaed1ad04378293fb4bae",
+      "size": 5056,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/nspeaker"
+    },
+    "icon/play": {
+      "version": "sha256:dcd4b2cf9c92417f29cf2e5dc8ef0dc42df62928fc295b6adff033a634af4ef9",
+      "sha256": "dcd4b2cf9c92417f29cf2e5dc8ef0dc42df62928fc295b6adff033a634af4ef9",
+      "size": 3976,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/play"
+    },
+    "icon/search": {
+      "version": "sha256:f21128107dc5754c99375a74cfca20f534251a55fd76edf2a1a02b0ff1cabc31",
+      "sha256": "f21128107dc5754c99375a74cfca20f534251a55fd76edf2a1a02b0ff1cabc31",
+      "size": 15341,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/search"
+    },
+    "icon/speaker": {
+      "version": "sha256:2fef76d43ec9c8dd97cd099e7eca83a0e1b977e9fa972ff4801a06fb386e17cc",
+      "sha256": "2fef76d43ec9c8dd97cd099e7eca83a0e1b977e9fa972ff4801a06fb386e17cc",
+      "size": 15626,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/speaker"
+    },
+    "icon/update": {
+      "version": "sha256:75c9eae09258e2c87478403370256b7a787bc1fab88e0872d01bdf47cb5876ec",
+      "sha256": "75c9eae09258e2c87478403370256b7a787bc1fab88e0872d01bdf47cb5876ec",
+      "size": 10589,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/icon/update"
+    },
+    "libcrypto-3.dll": {
+      "version": "sha256:53c529145339fb042a3dcd3a09c2d7753204f8b4fc79d99e0d31e69a33985958",
+      "sha256": "53c529145339fb042a3dcd3a09c2d7753204f8b4fc79d99e0d31e69a33985958",
+      "size": 6242552,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/libcrypto-3.dll"
+    },
+    "libffi-8.dll": {
+      "version": "sha256:eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "size": 39696,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/libffi-8.dll"
+    },
+    "libssl-3.dll": {
+      "version": "sha256:b17a87979862d19241edc4318f967e24c3ec356ed6c2368f561179fab2311001",
+      "sha256": "b17a87979862d19241edc4318f967e24c3ec356ed6c2368f561179fab2311001",
+      "size": 1329912,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/libssl-3.dll"
+    },
+    "libtommath.dll": {
+      "version": "sha256:2d760fefb452665b6af8c8d9d29f3a8378f10fc0847cdd9938ea0cb5edf1d573",
+      "sha256": "2d760fefb452665b6af8c8d9d29f3a8378f10fc0847cdd9938ea0cb5edf1d573",
+      "size": 81408,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/libtommath.dll"
+    },
+    "numpy/_core/_multiarray_tests.cp314-win_amd64.pyd": {
+      "version": "sha256:dc58c71234b3d604cfcc959747d78b96a5b75735790a2318179ee1294e8f5db0",
+      "sha256": "dc58c71234b3d604cfcc959747d78b96a5b75735790a2318179ee1294e8f5db0",
+      "size": 65536,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/_core/_multiarray_tests.cp314-win_amd64.pyd"
+    },
+    "numpy/_core/_multiarray_umath.cp314-win_amd64.pyd": {
+      "version": "sha256:ecafa466c06217851e7e0e8ca9fdb6b039811b32f021e1b9833334c09ada70bf",
+      "sha256": "ecafa466c06217851e7e0e8ca9fdb6b039811b32f021e1b9833334c09ada70bf",
+      "size": 3724288,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/_core/_multiarray_umath.cp314-win_amd64.pyd"
+    },
+    "numpy/fft/_pocketfft_umath.cp314-win_amd64.pyd": {
+      "version": "sha256:2ff71d7a936ee915c3a6ac319d918e4377bad732eb906124711224e1150107ee",
+      "sha256": "2ff71d7a936ee915c3a6ac319d918e4377bad732eb906124711224e1150107ee",
+      "size": 276480,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/fft/_pocketfft_umath.cp314-win_amd64.pyd"
+    },
+    "numpy/linalg/_umath_linalg.cp314-win_amd64.pyd": {
+      "version": "sha256:04d5b3d2f0e8493762eafb13249f2e386645212a8a4858a82c5f7957279bf839",
+      "sha256": "04d5b3d2f0e8493762eafb13249f2e386645212a8a4858a82c5f7957279bf839",
+      "size": 112128,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/linalg/_umath_linalg.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_bounded_integers.cp314-win_amd64.pyd": {
+      "version": "sha256:2315d745e9dbbb4be569a837831a8e587472e34d2dd855248a6c29b0466806c7",
+      "sha256": "2315d745e9dbbb4be569a837831a8e587472e34d2dd855248a6c29b0466806c7",
+      "size": 215040,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_bounded_integers.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_common.cp314-win_amd64.pyd": {
+      "version": "sha256:c4aa8072382728a9390d76643169f80a307c422b73402e2ee9041b32bf204665",
+      "sha256": "c4aa8072382728a9390d76643169f80a307c422b73402e2ee9041b32bf204665",
+      "size": 173056,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_common.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_generator.cp314-win_amd64.pyd": {
+      "version": "sha256:69c5aa9b41c0a60ee8600a4c1434c86fa96dfc00f4cd3171aed9729aacaa549b",
+      "sha256": "69c5aa9b41c0a60ee8600a4c1434c86fa96dfc00f4cd3171aed9729aacaa549b",
+      "size": 596480,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_generator.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_mt19937.cp314-win_amd64.pyd": {
+      "version": "sha256:24c4d758ca37e15c4e6872db816269c3296ff7a4094b03341ee7ec004769986c",
+      "sha256": "24c4d758ca37e15c4e6872db816269c3296ff7a4094b03341ee7ec004769986c",
+      "size": 84992,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_mt19937.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_pcg64.cp314-win_amd64.pyd": {
+      "version": "sha256:2c63563957d1282dade28173743ad81be21781ce6b54d91459685b8bd4a98cd0",
+      "sha256": "2c63563957d1282dade28173743ad81be21781ce6b54d91459685b8bd4a98cd0",
+      "size": 94720,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_pcg64.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_philox.cp314-win_amd64.pyd": {
+      "version": "sha256:8ceb13f5a97eb161fd7d93d2e597dc99d3387a76f32ef187a57103ac759bda15",
+      "sha256": "8ceb13f5a97eb161fd7d93d2e597dc99d3387a76f32ef187a57103ac759bda15",
+      "size": 79872,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_philox.cp314-win_amd64.pyd"
+    },
+    "numpy/random/_sfc64.cp314-win_amd64.pyd": {
+      "version": "sha256:78c0b8d71b3a7e505829c20e21355ec06b772a2bee1b5b895db7b0889b628fb8",
+      "sha256": "78c0b8d71b3a7e505829c20e21355ec06b772a2bee1b5b895db7b0889b628fb8",
+      "size": 58880,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/_sfc64.cp314-win_amd64.pyd"
+    },
+    "numpy/random/bit_generator.cp314-win_amd64.pyd": {
+      "version": "sha256:2743114b72bb0034311b940f71322f5d2ece5ca334cfc9d11c92de4c16c4aaa5",
+      "sha256": "2743114b72bb0034311b940f71322f5d2ece5ca334cfc9d11c92de4c16c4aaa5",
+      "size": 160768,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/bit_generator.cp314-win_amd64.pyd"
+    },
+    "numpy/random/mtrand.cp314-win_amd64.pyd": {
+      "version": "sha256:7fc517a979053ad94a333c0682f9ff20cc1d74c8f1c1367ab211036b1eab7dfe",
+      "sha256": "7fc517a979053ad94a333c0682f9ff20cc1d74c8f1c1367ab211036b1eab7dfe",
+      "size": 496128,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy/random/mtrand.cp314-win_amd64.pyd"
+    },
+    "numpy-2.4.6.dist-info/DELVEWHEEL": {
+      "version": "sha256:5ad7ad2df33f890e960940a7ef0d23376a21df5462710c6a42e4ccbd3a0be455",
+      "sha256": "5ad7ad2df33f890e960940a7ef0d23376a21df5462710c6a42e4ccbd3a0be455",
+      "size": 462,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/DELVEWHEEL"
+    },
+    "numpy-2.4.6.dist-info/entry_points.txt": {
+      "version": "sha256:ec26fade0c8bdac211a6c1dd003a65eb16885b925395423e93fcaa115af4052c",
+      "sha256": "ec26fade0c8bdac211a6c1dd003a65eb16885b925395423e93fcaa115af4052c",
+      "size": 220,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/entry_points.txt"
+    },
+    "numpy-2.4.6.dist-info/INSTALLER": {
+      "version": "sha256:ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size": 4,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/INSTALLER"
+    },
+    "numpy-2.4.6.dist-info/licenses/LICENSE.txt": {
+      "version": "sha256:dc97d59562c75c04557f1e9a68f3eae326699eb119d569cd4ed6a4eafe5f9abb",
+      "sha256": "dc97d59562c75c04557f1e9a68f3eae326699eb119d569cd4ed6a4eafe5f9abb",
+      "size": 45801,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/LICENSE.txt"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt": {
+      "version": "sha256:fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec",
+      "sha256": "fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec",
+      "size": 1018,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING": {
+      "version": "sha256:3f2c1ffa76383a55ae0aac01c9737cd70050dff63e1f026694fbe9d662573c98",
+      "sha256": "3f2c1ffa76383a55ae0aac01c9737cd70050dff63e1f026694fbe9d662573c98",
+      "size": 690,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/src/highway/LICENSE": {
+      "version": "sha256:e340270d4f64384569a91d546acb5b094d69ce47f0c015db77abb74dc6f815af",
+      "sha256": "e340270d4f64384569a91d546acb5b094d69ce47f0c015db77abb74dc6f815af",
+      "size": 20785,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/src/highway/LICENSE"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt": {
+      "version": "sha256:f7b14309e5f54e5022b26448eefd419988ada2aec01d3c1162d84a0ea8f21f2c",
+      "sha256": "f7b14309e5f54e5022b26448eefd419988ada2aec01d3c1162d84a0ea8f21f2c",
+      "size": 1414,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md": {
+      "version": "sha256:211e7d737d6179a08f791ebb0a99897ce7cd2457410c542876d125576edfe910",
+      "sha256": "211e7d737d6179a08f791ebb0a99897ce7cd2457410c542876d125576edfe910",
+      "size": 1514,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE": {
+      "version": "sha256:c17011467b4fe6e20fbfbeda4df09e58c2bca5480a063e55735a4000a379aad9",
+      "sha256": "c17011467b4fe6e20fbfbeda4df09e58c2bca5480a063e55735a4000a379aad9",
+      "size": 1543,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md": {
+      "version": "sha256:a85ca13fdf90160b64a0698215868c13b74d835ad0a4e2ba44713b8c5058a056",
+      "sha256": "a85ca13fdf90160b64a0698215868c13b74d835ad0a4e2ba44713b8c5058a056",
+      "size": 1498,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt": {
+      "version": "sha256:a14cc25e10d40a3aa705b7de2fb764a6535d8ee9b2db4e1724900585457dfd55",
+      "sha256": "a14cc25e10d40a3aa705b7de2fb764a6535d8ee9b2db4e1724900585457dfd55",
+      "size": 2266,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/ma/LICENSE": {
+      "version": "sha256:05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6",
+      "sha256": "05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6",
+      "size": 1593,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/ma/LICENSE"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/LICENSE.md": {
+      "version": "sha256:103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f",
+      "sha256": "103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f",
+      "size": 3511,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/distributions/LICENSE.md": {
+      "version": "sha256:469778be8f33d54e1bcaab28c281cc472916d2d273f835e55bc487d30503face",
+      "sha256": "469778be8f33d54e1bcaab28c281cc472916d2d273f835e55bc487d30503face",
+      "size": 2745,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/distributions/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md": {
+      "version": "sha256:0e111337b25494a773106695f0e799f642b8567aaacca4f116a74a8177179156",
+      "sha256": "0e111337b25494a773106695f0e799f642b8567aaacca4f116a74a8177179156",
+      "size": 2926,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md": {
+      "version": "sha256:e7d4f4fb20358f314210a892ae17351e04993813646f697ec387385ca2a36918",
+      "sha256": "e7d4f4fb20358f314210a892ae17351e04993813646f697ec387385ca2a36918",
+      "size": 1154,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/philox/LICENSE.md": {
+      "version": "sha256:6f5828a57223d4cc7f8ea505a2623e7b978b242752c1515e355f46ba2cec1800",
+      "sha256": "6f5828a57223d4cc7f8ea505a2623e7b978b242752c1515e355f46ba2cec1800",
+      "size": 1509,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/philox/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md": {
+      "version": "sha256:9d4098846018319cd68e228ee6220361787f73bccbf00237a85e4fc9621b998f",
+      "sha256": "9d4098846018319cd68e228ee6220361787f73bccbf00237a85e4fc9621b998f",
+      "size": 1226,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md": {
+      "version": "sha256:268b0ca06759d31ea3ca68dd35f20e877916e927b1c2a835e4592a3c4354b1f9",
+      "sha256": "268b0ca06759d31ea3ca68dd35f20e877916e927b1c2a835e4592a3c4354b1f9",
+      "size": 332,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md"
+    },
+    "numpy-2.4.6.dist-info/METADATA": {
+      "version": "sha256:b082c52ccbe3b880bae177c35171b52ed6c947f3ad71e3762f2723f60a411de0",
+      "sha256": "b082c52ccbe3b880bae177c35171b52ed6c947f3ad71e3762f2723f60a411de0",
+      "size": 6608,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/METADATA"
+    },
+    "numpy-2.4.6.dist-info/RECORD": {
+      "version": "sha256:d9e67dcd85eb644d16ae29a07cef54e9f5806ce780eda9f402e02210664f9270",
+      "sha256": "d9e67dcd85eb644d16ae29a07cef54e9f5806ce780eda9f402e02210664f9270",
+      "size": 110933,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/RECORD"
+    },
+    "numpy-2.4.6.dist-info/WHEEL": {
+      "version": "sha256:cc5470f047694c6baa5786778b2e707f26827a8311aa1dea261a6c914aed193e",
+      "sha256": "cc5470f047694c6baa5786778b2e707f26827a8311aa1dea261a6c914aed193e",
+      "size": 85,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy-2.4.6.dist-info/WHEEL"
+    },
+    "numpy.libs/libscipy_openblas64_-63c857e738469261263c764a36be9436.dll": {
+      "version": "sha256:63c857e738469261263c764a36be9436ebdeaa272e340a828f42047a97131080",
+      "sha256": "63c857e738469261263c764a36be9436ebdeaa272e340a828f42047a97131080",
+      "size": 20415488,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy.libs/libscipy_openblas64_-63c857e738469261263c764a36be9436.dll"
+    },
+    "numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll": {
+      "version": "sha256:a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde",
+      "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde",
+      "size": 575056,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll"
+    },
+    "PIL/_avif.cp314-win_amd64.pyd": {
+      "version": "sha256:d8bd3032b72992a8166144a4063bae4a55c0f178d237454f17102301731e912a",
+      "sha256": "d8bd3032b72992a8166144a4063bae4a55c0f178d237454f17102301731e912a",
+      "size": 7890432,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_avif.cp314-win_amd64.pyd"
+    },
+    "PIL/_imaging.cp314-win_amd64.pyd": {
+      "version": "sha256:d823c0e3b54035d08703bb427c553c956c2607b79395f2952e17a5447c5f1105",
+      "sha256": "d823c0e3b54035d08703bb427c553c956c2607b79395f2952e17a5447c5f1105",
+      "size": 2627072,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_imaging.cp314-win_amd64.pyd"
+    },
+    "PIL/_imagingcms.cp314-win_amd64.pyd": {
+      "version": "sha256:dff90929dbeb9d51eebf09f4454d0beb65775f7644145a63d66fa8ca9f5a96fd",
+      "sha256": "dff90929dbeb9d51eebf09f4454d0beb65775f7644145a63d66fa8ca9f5a96fd",
+      "size": 272384,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_imagingcms.cp314-win_amd64.pyd"
+    },
+    "PIL/_imagingft.cp314-win_amd64.pyd": {
+      "version": "sha256:93c3ca5a3e7119897be9825a0a4228d485410fc8f1e42257edf7e89052c79bce",
+      "sha256": "93c3ca5a3e7119897be9825a0a4228d485410fc8f1e42257edf7e89052c79bce",
+      "size": 2171392,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_imagingft.cp314-win_amd64.pyd"
+    },
+    "PIL/_imagingmath.cp314-win_amd64.pyd": {
+      "version": "sha256:a7b3d6e462d338744694bc332f9f6f9c5717d532b7a74ad2762b3289521d0d9e",
+      "sha256": "a7b3d6e462d338744694bc332f9f6f9c5717d532b7a74ad2762b3289521d0d9e",
+      "size": 21504,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_imagingmath.cp314-win_amd64.pyd"
+    },
+    "PIL/_imagingtk.cp314-win_amd64.pyd": {
+      "version": "sha256:79208042672ff0b9e3669d5078ad35413470861e783feeaf1430458c41036593",
+      "sha256": "79208042672ff0b9e3669d5078ad35413470861e783feeaf1430458c41036593",
+      "size": 14848,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_imagingtk.cp314-win_amd64.pyd"
+    },
+    "PIL/_webp.cp314-win_amd64.pyd": {
+      "version": "sha256:f4d851381d1bd937753ba78e951c96a85f3a6c5ac402beec23fc13fdb6d45198",
+      "sha256": "f4d851381d1bd937753ba78e951c96a85f3a6c5ac402beec23fc13fdb6d45198",
+      "size": 416256,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/PIL/_webp.cp314-win_amd64.pyd"
+    },
+    "pyexpat.pyd": {
+      "version": "sha256:e34347c4e11b2ecc57df2ce1627ba7f98fd076e9df59951e9034f5aa8e95a2fc",
+      "sha256": "e34347c4e11b2ecc57df2ce1627ba7f98fd076e9df59951e9034f5aa8e95a2fc",
+      "size": 222944,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/pyexpat.pyd"
+    },
+    "python314.dll": {
+      "version": "sha256:0f9857ffdfe010fe6b99328d58c2e3c7472ce75f336bf9c2ad9bd5bca3bce700",
+      "sha256": "0f9857ffdfe010fe6b99328d58c2e3c7472ce75f336bf9c2ad9bd5bca3bce700",
+      "size": 6785760,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/python314.dll"
+    },
+    "RoozNegar.exe": {
+      "version": "sha256:8e07142d30b83179c54221496f747b12a61eb6bd43507fd13f8d71acaa4faca5",
+      "sha256": "8e07142d30b83179c54221496f747b12a61eb6bd43507fd13f8d71acaa4faca5",
+      "size": 6207212,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/RoozNegar.exe"
+    },
+    "RoozNegar.ico": {
+      "version": "sha256:5bf65e8b10cec3112e35e6956421a7a26a5102d6a8aed84c5dbafb13fac75a97",
+      "sha256": "5bf65e8b10cec3112e35e6956421a7a26a5102d6a8aed84c5dbafb13fac75a97",
+      "size": 90580,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/RoozNegar.ico"
+    },
+    "select.pyd": {
+      "version": "sha256:722328e7fad8048057fc966474ba73966d2ceebaa32e7344cce09640ab4dc9bd",
+      "sha256": "722328e7fad8048057fc966474ba73966d2ceebaa32e7344cce09640ab4dc9bd",
+      "size": 33504,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/select.pyd"
+    },
+    "tcl90.dll": {
+      "version": "sha256:a1fb45f963b05cb083a97df1449c2023b484eb921d40a463da7501b0f60e0f70",
+      "sha256": "a1fb45f963b05cb083a97df1449c2023b484eb921d40a463da7501b0f60e0f70",
+      "size": 3369299,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/tcl90.dll"
+    },
+    "tcl9tk90.dll": {
+      "version": "sha256:31f625c52e65d29d126e710ed8bab2ec964cb770e4fc59bc329dfff02cb6ddcf",
+      "sha256": "31f625c52e65d29d126e710ed8bab2ec964cb770e4fc59bc329dfff02cb6ddcf",
+      "size": 2138360,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/tcl9tk90.dll"
+    },
+    "unicodedata.pyd": {
+      "version": "sha256:280b09bd97b598d18c0ed9542dc18ed35fa57a16e84f8e65fd9c6e96516c28d6",
+      "sha256": "280b09bd97b598d18c0ed9542dc18ed35fa57a16e84f8e65fd9c6e96516c28d6",
+      "size": 759008,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/unicodedata.pyd"
+    },
+    "Vazirmatn-Regular.ttf": {
+      "version": "sha256:b69fd4c680b8f3f225feabcc655a2c585d97627b8f5f5c0f9985e894069f3a56",
+      "sha256": "b69fd4c680b8f3f225feabcc655a2c585d97627b8f5f5c0f9985e894069f3a56",
+      "size": 122752,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/Vazirmatn-Regular.ttf"
+    },
+    "VCRUNTIME140.dll": {
+      "version": "sha256:d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7",
+      "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7",
+      "size": 178616,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/VCRUNTIME140.dll"
+    },
+    "VCRUNTIME140_1.dll": {
+      "version": "sha256:a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e",
+      "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e",
+      "size": 50112,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/VCRUNTIME140_1.dll"
+    },
+    "zlib1.dll": {
+      "version": "sha256:f07195206534ebb1fe75093d4ec6c54a7a9227281b0c09d2113465b71da9e900",
+      "sha256": "f07195206534ebb1fe75093d4ec6c54a7a9227281b0c09d2113465b71da9e900",
+      "size": 102912,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/RoozNegar/zlib1.dll"
+    }
+  }
+}

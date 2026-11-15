@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-14T18:35:28+00:00",
+  "files": {
+    "hijri_calendar.json": {
+      "version": "sha256:200c83dd31db30ff80db98e5ccc8b66af73bb1603335a3939613a0f8260b9349",
+      "sha256": "200c83dd31db30ff80db98e5ccc8b66af73bb1603335a3939613a0f8260b9349",
+      "size": 2668,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/data/hijri_calendar.json"
+    },
+    "holidays.json": {
+      "version": "sha256:ee9d16e363896021b07c179bbe4694b390795b8bb360f02b79de02b4ff8bb43c",
+      "sha256": "ee9d16e363896021b07c179bbe4694b390795b8bb360f02b79de02b4ff8bb43c",
+      "size": 85698,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/data/holidays.json"
+    },
+    "iran_cities_coordinates.json": {
+      "version": "sha256:980e3dab90f1bcd3c2d98211e7082829d1aa09cd9458714f2bba95993a64490d",
+      "sha256": "980e3dab90f1bcd3c2d98211e7082829d1aa09cd9458714f2bba95993a64490d",
+      "size": 105562,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/data/iran_cities_coordinates.json"
+    },
+    "muezzins_index.json": {
+      "version": "sha256:0b00677ccb5290f2edd97908d15c0b18d223c8ff1c6cd8afcbe5f856ff2c83f2",
+      "sha256": "0b00677ccb5290f2edd97908d15c0b18d223c8ff1c6cd8afcbe5f856ff2c83f2",
+      "size": 7306,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/data/muezzins_index.json"
+    }
+  }
+}

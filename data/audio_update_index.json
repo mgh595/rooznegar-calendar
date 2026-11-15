@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-14T20:41:23+00:00",
+  "files": {
+    "adhan_audio/adhan_01.mp3": {
+      "version": "sha256:d95646fd4761a97c00e3cd32b1be4fca0d21f6eec33752b7074098fadba7dddd",
+      "sha256": "d95646fd4761a97c00e3cd32b1be4fca0d21f6eec33752b7074098fadba7dddd",
+      "size": 5351424,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_01.mp3"
+    },
+    "adhan_audio/adhan_02.mp3": {
+      "version": "sha256:669cd651c346dc136102e8c4cfe727bec0aefc27f85796a8dc26577c2889073e",
+      "sha256": "669cd651c346dc136102e8c4cfe727bec0aefc27f85796a8dc26577c2889073e",
+      "size": 4412571,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_02.mp3"
+    },
+    "adhan_audio/adhan_03.mp3": {
+      "version": "sha256:e9858815b90dbb2cafd6241b7165e253bf567e02a503b6aa8ba1b4ee0aa1e598",
+      "sha256": "e9858815b90dbb2cafd6241b7165e253bf567e02a503b6aa8ba1b4ee0aa1e598",
+      "size": 341413,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_03.mp3"
+    },
+    "adhan_audio/adhan_04.mp3": {
+      "version": "sha256:1ad666a631dcd77f456422f38ce8fb84f2f5577b4146bc81d52f2433c5771271",
+      "sha256": "1ad666a631dcd77f456422f38ce8fb84f2f5577b4146bc81d52f2433c5771271",
+      "size": 1045428,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_04.mp3"
+    },
+    "adhan_audio/adhan_05.mp3": {
+      "version": "sha256:aa6a51bcb41db71605e624f5497fd6171fc2ce19bd4f5b293627406963707c29",
+      "sha256": "aa6a51bcb41db71605e624f5497fd6171fc2ce19bd4f5b293627406963707c29",
+      "size": 2597997,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_05.mp3"
+    },
+    "adhan_audio/adhan_06.mp3": {
+      "version": "sha256:1e6ad50ec3701d75905036ae35330edef9e9916a4a73f568896ccc727bc39196",
+      "sha256": "1e6ad50ec3701d75905036ae35330edef9e9916a4a73f568896ccc727bc39196",
+      "size": 1133597,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_06.mp3"
+    },
+    "adhan_audio/adhan_07.mp3": {
+      "version": "sha256:3deb0a284c8e19fd7367f06187d85e91293d14692755c236a1eb87a2c4437015",
+      "sha256": "3deb0a284c8e19fd7367f06187d85e91293d14692755c236a1eb87a2c4437015",
+      "size": 3033482,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_07.mp3"
+    },
+    "adhan_audio/adhan_08.mp3": {
+      "version": "sha256:ac42cd29ddc65ac433f847d3315faa0135178cf3267bdd5c1851b890b8cadc7d",
+      "sha256": "ac42cd29ddc65ac433f847d3315faa0135178cf3267bdd5c1851b890b8cadc7d",
+      "size": 1387243,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_08.mp3"
+    },
+    "adhan_audio/adhan_09.mp3": {
+      "version": "sha256:c524a83ceb899280672e877ab76b8165c0f540c51b61b4907ae9e44f05be68bc",
+      "sha256": "c524a83ceb899280672e877ab76b8165c0f540c51b61b4907ae9e44f05be68bc",
+      "size": 2641127,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_09.mp3"
+    },
+    "adhan_audio/adhan_10.mp3": {
+      "version": "sha256:cbb7e902ec17695a91bfb731b3fd4b6bb4659f6ec0542e9834d9d9da5d5272bf",
+      "sha256": "cbb7e902ec17695a91bfb731b3fd4b6bb4659f6ec0542e9834d9d9da5d5272bf",
+      "size": 1296658,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_10.mp3"
+    },
+    "adhan_audio/adhan_11.mp3": {
+      "version": "sha256:8ed0ab2bd8bb4573c2b843806522f5dbcd09432dac2663d6c5de64fdd55df819",
+      "sha256": "8ed0ab2bd8bb4573c2b843806522f5dbcd09432dac2663d6c5de64fdd55df819",
+      "size": 2580780,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_11.mp3"
+    },
+    "adhan_audio/adhan_12.mp3": {
+      "version": "sha256:f2056f68751b8e7207c47732dccd856db77403e303d554db217a91a1d5768f63",
+      "sha256": "f2056f68751b8e7207c47732dccd856db77403e303d554db217a91a1d5768f63",
+      "size": 2825005,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_12.mp3"
+    },
+    "adhan_audio/adhan_13.mp3": {
+      "version": "sha256:e8e1bd2aaeaaeb07976b88330694352ba4873b9cdd9896b5f8543b894bd4ab5a",
+      "sha256": "e8e1bd2aaeaaeb07976b88330694352ba4873b9cdd9896b5f8543b894bd4ab5a",
+      "size": 793122,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_13.mp3"
+    },
+    "adhan_audio/adhan_14.mp3": {
+      "version": "sha256:88a4242cc3ec3d0c7ee6aa8883ca989ac5a45fb99c6d0d3c39f3a00c7df212bb",
+      "sha256": "88a4242cc3ec3d0c7ee6aa8883ca989ac5a45fb99c6d0d3c39f3a00c7df212bb",
+      "size": 2596704,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_14.mp3"
+    },
+    "adhan_audio/adhan_15.mp3": {
+      "version": "sha256:e3091e69752eb5f166af4cf29c1a6598f44b500f2679d374d92084bd489c5ba9",
+      "sha256": "e3091e69752eb5f166af4cf29c1a6598f44b500f2679d374d92084bd489c5ba9",
+      "size": 1312854,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_15.mp3"
+    },
+    "adhan_audio/adhan_16.mp3": {
+      "version": "sha256:1753bf708cb333e25abab3f90c3712434ced10ba6fb10afcc2b88126703481d1",
+      "sha256": "1753bf708cb333e25abab3f90c3712434ced10ba6fb10afcc2b88126703481d1",
+      "size": 2960351,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_16.mp3"
+    },
+    "adhan_audio/adhan_17.mp3": {
+      "version": "sha256:a291705f63cdac6643001bd15e717c8b07ad34b00a07100175354d4f83b0cf83",
+      "sha256": "a291705f63cdac6643001bd15e717c8b07ad34b00a07100175354d4f83b0cf83",
+      "size": 2834449,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_17.mp3"
+    },
+    "adhan_audio/adhan_18.mp3": {
+      "version": "sha256:568976b5fadb9a2cabbe65f1dbe9d270ea6511cbeb4d6d4c9ec29bc2de8b3703",
+      "sha256": "568976b5fadb9a2cabbe65f1dbe9d270ea6511cbeb4d6d4c9ec29bc2de8b3703",
+      "size": 2138511,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_18.mp3"
+    },
+    "adhan_audio/adhan_19.mp3": {
+      "version": "sha256:88a4242cc3ec3d0c7ee6aa8883ca989ac5a45fb99c6d0d3c39f3a00c7df212bb",
+      "sha256": "88a4242cc3ec3d0c7ee6aa8883ca989ac5a45fb99c6d0d3c39f3a00c7df212bb",
+      "size": 2596704,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_19.mp3"
+    },
+    "adhan_audio/adhan_20.mp3": {
+      "version": "sha256:46b2df81f3a0bded496b80af49dc0c1ed90b1598de1b851ad847c7ad4c595732",
+      "sha256": "46b2df81f3a0bded496b80af49dc0c1ed90b1598de1b851ad847c7ad4c595732",
+      "size": 2880380,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_20.mp3"
+    },
+    "adhan_audio/adhan_21.mp3": {
+      "version": "sha256:8dba56680a3faa1e4dda7ac12fef161ece511eff1c327fa6be156c4411c88687",
+      "sha256": "8dba56680a3faa1e4dda7ac12fef161ece511eff1c327fa6be156c4411c88687",
+      "size": 2682899,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_21.mp3"
+    },
+    "adhan_audio/adhan_22.mp3": {
+      "version": "sha256:acf1efda0339800c6cbdf2d4f8553449f231153a114fafc5db8d27a240e6e20d",
+      "sha256": "acf1efda0339800c6cbdf2d4f8553449f231153a114fafc5db8d27a240e6e20d",
+      "size": 3562755,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_22.mp3"
+    },
+    "adhan_audio/adhan_23.mp3": {
+      "version": "sha256:5fc22509d03075dd1bd5c23df05e87b0a2c81430716ec5e9ebcfbced9ae73d6f",
+      "sha256": "5fc22509d03075dd1bd5c23df05e87b0a2c81430716ec5e9ebcfbced9ae73d6f",
+      "size": 4374540,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_23.mp3"
+    },
+    "adhan_audio/adhan_24.mp3": {
+      "version": "sha256:eaeec64d037f742ad17bd0627d58095ccd86ca8feeaa2077946a1ec08292374d",
+      "sha256": "eaeec64d037f742ad17bd0627d58095ccd86ca8feeaa2077946a1ec08292374d",
+      "size": 3942792,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_24.mp3"
+    },
+    "adhan_audio/adhan_25.mp3": {
+      "version": "sha256:5fc22509d03075dd1bd5c23df05e87b0a2c81430716ec5e9ebcfbced9ae73d6f",
+      "sha256": "5fc22509d03075dd1bd5c23df05e87b0a2c81430716ec5e9ebcfbced9ae73d6f",
+      "size": 4374540,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_25.mp3"
+    },
+    "adhan_audio/adhan_26.mp3": {
+      "version": "sha256:e18954102378c7bc4e1a9e4bd1c4d31fd948364d1f1b305721f6ab96775d7001",
+      "sha256": "e18954102378c7bc4e1a9e4bd1c4d31fd948364d1f1b305721f6ab96775d7001",
+      "size": 4910219,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_26.mp3"
+    },
+    "adhan_audio/adhan_28.mp3": {
+      "version": "sha256:4530afc06efcc6ee5b225dd9be4e66dc382cfeca95796ace3704f53ad049eac2",
+      "sha256": "4530afc06efcc6ee5b225dd9be4e66dc382cfeca95796ace3704f53ad049eac2",
+      "size": 1558685,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_28.mp3"
+    },
+    "adhan_audio/adhan_29.mp3": {
+      "version": "sha256:fac8a3063ebafb6225e136f350d579ce5091535466016cd39d0ff19cf60a80e8",
+      "sha256": "fac8a3063ebafb6225e136f350d579ce5091535466016cd39d0ff19cf60a80e8",
+      "size": 1188825,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_29.mp3"
+    },
+    "adhan_audio/adhan_30.mp3": {
+      "version": "sha256:12e1c958f9ae65d7629ae85d0bf9f2670092031b7b0872a12a21b2467dd4c2b8",
+      "sha256": "12e1c958f9ae65d7629ae85d0bf9f2670092031b7b0872a12a21b2467dd4c2b8",
+      "size": 1233128,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_30.mp3"
+    },
+    "adhan_audio/adhan_31.mp3": {
+      "version": "sha256:1d56a54ac8e7ad40b04af861326c5c0fda723e0f722fbe79f8e7b316c9b2c00a",
+      "sha256": "1d56a54ac8e7ad40b04af861326c5c0fda723e0f722fbe79f8e7b316c9b2c00a",
+      "size": 1176808,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_31.mp3"
+    },
+    "adhan_audio/adhan_32.mp3": {
+      "version": "sha256:78617153f94e9f068d13ad5b930642ffdcf9e1f9d5e5893dd3f15c5611c5eca9",
+      "sha256": "78617153f94e9f068d13ad5b930642ffdcf9e1f9d5e5893dd3f15c5611c5eca9",
+      "size": 864480,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_32.mp3"
+    },
+    "adhan_audio/adhan_33.mp3": {
+      "version": "sha256:3e0a6c53fcc41c230e9684f0c6c01d65ff10fdac1c1efdcd395bfaef71fa2302",
+      "sha256": "3e0a6c53fcc41c230e9684f0c6c01d65ff10fdac1c1efdcd395bfaef71fa2302",
+      "size": 1788073,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_33.mp3"
+    },
+    "adhan_audio/adhan_34.mp3": {
+      "version": "sha256:bb32e49592df8a510fa7ff0db0e37c864b46f25c5d7571db84779eb8e7df9395",
+      "sha256": "bb32e49592df8a510fa7ff0db0e37c864b46f25c5d7571db84779eb8e7df9395",
+      "size": 1257024,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_34.mp3"
+    },
+    "adhan_audio/adhan_35.mp3": {
+      "version": "sha256:7181f10a12c5e0483c54110b5705c29f31424c6470783c042d71a71ef72e1ddb",
+      "sha256": "7181f10a12c5e0483c54110b5705c29f31424c6470783c042d71a71ef72e1ddb",
+      "size": 1476192,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_35.mp3"
+    },
+    "adhan_audio/adhan_36.mp3": {
+      "version": "sha256:6803b0f8ba71824ab2f9c312faa8ed46879416b153d4e6ba4ebae8b59299a5ae",
+      "sha256": "6803b0f8ba71824ab2f9c312faa8ed46879416b153d4e6ba4ebae8b59299a5ae",
+      "size": 1311024,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_36.mp3"
+    },
+    "adhan_audio/adhan_37.mp3": {
+      "version": "sha256:2d65828c7c0e6337c06348085b59ed2f4f0f3d74743203df81ee31fde43dc5b7",
+      "sha256": "2d65828c7c0e6337c06348085b59ed2f4f0f3d74743203df81ee31fde43dc5b7",
+      "size": 1226459,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_37.mp3"
+    },
+    "adhan_audio/adhan_38.mp3": {
+      "version": "sha256:b21db49ff0e1626440d31e4814b25c89d643c0ba3fcad1ee1c15ac6d7e342718",
+      "sha256": "b21db49ff0e1626440d31e4814b25c89d643c0ba3fcad1ee1c15ac6d7e342718",
+      "size": 979552,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_38.mp3"
+    },
+    "adhan_audio/adhan_39.mp3": {
+      "version": "sha256:9db135e41af0a5827b425d0dca81361855ec9e860bbc81975245ee80a996fd60",
+      "sha256": "9db135e41af0a5827b425d0dca81361855ec9e860bbc81975245ee80a996fd60",
+      "size": 1319547,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_39.mp3"
+    },
+    "adhan_audio/adhan_40.mp3": {
+      "version": "sha256:2099ed65dd1044a3601e10e50de8aebffbb027ea566a10c84a060133f0744dcf",
+      "sha256": "2099ed65dd1044a3601e10e50de8aebffbb027ea566a10c84a060133f0744dcf",
+      "size": 5270159,
+      "url": "https://raw.githubusercontent.com/mgh595/rooznegar-calendar/main/adhan_audio/adhan_40.mp3"
+    }
+  }
+}
