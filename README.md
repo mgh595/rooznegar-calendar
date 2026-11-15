@@ -9,6 +9,14 @@
   <p><a href="https://github.com/mgh595/rooznegar-calendar/releases"><img src="https://img.shields.io/badge/Windows-Setup%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Setup x64"></a></p>
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center"><strong>Main calendar - Dark</strong><br><a href="screenshots/calendar.png"><img src="screenshots/calendar.png" alt="RoozNegar main calendar in dark mode" width="280"></a></td>
+    <td align="center"><strong>Main calendar - Light</strong><br><a href="screenshots/calendar-light.png"><img src="screenshots/calendar-light.png" alt="RoozNegar main calendar in light mode" width="280"></a></td>
+  </tr>
+</table>
+
+
 *A Persian desktop calendar for Windows, featuring calendar dates, occasions, prayer times, and adhan playback.*
 
 ## Highlights
@@ -28,21 +36,6 @@ RoozNegar displays the Solar Hijri calendar alongside Gregorian and Lunar Hijri 
 ## Operating system and requirements
 
 The 64-bit version is built for and tested on Windows 10 and Windows 11. Earlier Windows versions have not been tested. The application bundles its Python runtime, so a separate Python installation is not required. An internet connection is needed to check for updates and download audio files.
-
-## Screenshots
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Main calendar - Dark</strong><br><a href="screenshots/calendar.png"><img src="screenshots/calendar.png" alt="RoozNegar main calendar in dark mode" width="250"></a></td>
-    <td align="center"><strong>Main calendar - Light</strong><br><a href="screenshots/calendar-light.png"><img src="screenshots/calendar-light.png" alt="RoozNegar main calendar in light mode" width="250"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Date converter</strong><br><a href="screenshots/date-converter.png"><img src="screenshots/date-converter.png" alt="Date converter window" width="170"></a></td>
-    <td align="center"><strong>Occasion search</strong><br><a href="screenshots/occasion-search.png"><img src="screenshots/occasion-search.png" alt="Occasion search window" width="170"></a></td>
-    <td align="center"><strong>Settings</strong><br><a href="screenshots/settings.png"><img src="screenshots/settings.png" alt="RoozNegar settings window" width="170"></a></td>
-    <td align="center"><strong>System tray</strong><br><a href="screenshots/System-Tray.png"><img src="screenshots/System-Tray.png" alt="RoozNegar system tray view" width="170"></a></td>
-  </tr>
-</table>
 
 ## Features
 
@@ -171,3 +164,16 @@ RoozNegar is proprietary freeware. Personal use of the executable is permitted. 
 روزنگار نرم‌افزاری رایگان و اختصاصی است. استفاده از نسخهٔ اجرایی برای استفادهٔ شخصی مجاز است. کپی، تغییر، مهندسی معکوس و بازتوزیع برنامه بدون اجازهٔ کتبی سازنده مجاز نیست.
 
 کتابخانه‌ها، قلم‌ها و سایر اجزای متعلق به اشخاص ثالث تابع مجوزها و شرایط استفادهٔ جداگانهٔ خود هستند؛ این اعلامیه جایگزین مجوزهای آن اجزا نیست.
+
+## More screenshots
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Date converter</strong><br><a href="screenshots/date-converter.png"><img src="screenshots/date-converter.png" alt="Date converter window" width="170"></a></td>
+    <td align="center"><strong>Occasion search</strong><br><a href="screenshots/occasion-search.png"><img src="screenshots/occasion-search.png" alt="Occasion search window" width="170"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Settings</strong><br><a href="screenshots/settings.png"><img src="screenshots/settings.png" alt="RoozNegar settings window" width="170"></a></td>
+    <td align="center"><strong>System tray</strong><br><a href="screenshots/System-Tray.png"><img src="screenshots/System-Tray.png" alt="RoozNegar system tray view" width="170"></a></td>
+  </tr>
+</table>
